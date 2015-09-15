@@ -2,4 +2,8 @@ ccccccccccccccccccccccccccccccccc
 5555555555555555555555555555
 85222222222222222222222222222222
 yobanii nasaos ya eto zdelal
+<<<<<<< HEAD
 git in new branch
+=======
+git branch in MASTER
+>>>>>>> master
